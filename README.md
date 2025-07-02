@@ -19,8 +19,7 @@
 
 ============================================================
 
-🏀💸 More projects coming soon, covering exciting topics like finance, health, and sports analytics! 
-🚀 Upcoming Projects (Planned)
+💸🚀 Upcoming Projects (Planned)
 
 🌍 Climate Change Data Analysis 🌡️  
 🏅 Olympic Performance Analytics 🥇  
