@@ -1,6 +1,6 @@
 # 🐍 Python Data Project Series 🚀
 
-📊✨ Welcome to the Python Data Project Series – a 🔥 collection of hands-on Python projects diving into real-world data analytics, cleaning, and visualization! 
+📊✨ Welcome to the Python Data Project Series – a 🔥 collection of hands-on Python projects diving into real-world data analytics! 
 
 ============================================================
 
